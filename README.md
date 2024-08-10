@@ -30,7 +30,8 @@ Import Axios in your file:
    
         import { Line, Bar } from 'react-chartjs-2';
 
-Must Enter Your api key 
+Must Enter Your api key from
+https://apilayer.com/marketplace/exchangerates_data-api
 
     const apiKey = 'your key';
 
