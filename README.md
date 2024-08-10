@@ -14,23 +14,29 @@ Technologies:
 
 Install additional libraries:
     1- Axios: For making HTTP requests:
-             npm install axios
+    
+                npm install axios
 
 Import Axios in your file:
+
             import axios from 'axios';
 
 
 2- Chart.js and React Chart.js 2:
+
     npm install chart.js react-chartjs-2
 
    Import Line chart and Bar chart in your file
+   
         import { Line, Bar } from 'react-chartjs-2';
 
 Must Enter Your api key 
+
     const apiKey = 'your key';
 
 
 Start the development server:
+
     npm start
 
 
